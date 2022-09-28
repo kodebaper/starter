@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on SantriCyber</title>
+    <link>https://siblog.github.io/tags/</link>
+    <description>Recent content in Tags on SantriCyber</description>
+    <image>
+      <url>https://siblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://siblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Sep 2022 14:14:22 +0700</lastBuildDate><atom:link href="https://siblog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>basic</title>
+      <link>https://siblog.github.io/tags/basic/</link>
+      <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/basic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mikrotik</title>
+      <link>https://siblog.github.io/tags/mikrotik/</link>
+      <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/mikrotik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://siblog.github.io/tags/networking/</link>
+      <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://siblog.github.io/tags/open-source/</link>
+      <pubDate>Thu, 15 Sep 2022 13:54:44 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://siblog.github.io/tags/ubuntu/</link>
+      <pubDate>Thu, 15 Sep 2022 13:54:44 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ngaji Qur&#39;an</title>
+      <link>https://siblog.github.io/tags/ngaji-quran/</link>
+      <pubDate>Thu, 15 Sep 2022 13:46:47 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/ngaji-quran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://siblog.github.io/tags/hugo/</link>
+      <pubDate>Thu, 15 Sep 2022 13:16:44 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static site</title>
+      <link>https://siblog.github.io/tags/static-site/</link>
+      <pubDate>Thu, 15 Sep 2022 13:16:44 +0700</pubDate>
+      
+      <guid>https://siblog.github.io/tags/static-site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
