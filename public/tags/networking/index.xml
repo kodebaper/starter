@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>networking on SantriCyber</title>
-    <link>https://siblog.github.io/tags/networking/</link>
+    <link>https://www.santricyber.com/tags/networking/</link>
     <description>Recent content in networking on SantriCyber</description>
     <image>
-      <url>https://siblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://siblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.santricyber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.santricyber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Sep 2022 14:14:22 +0700</lastBuildDate><atom:link href="https://siblog.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 14:14:22 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handbook Basic Internet Networking</title>
-      <link>https://siblog.github.io/blog/handbook-basic-internet-networking/</link>
+      <link>https://www.santricyber.com/blog/handbook-basic-internet-networking/</link>
       <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
       
-      <guid>https://siblog.github.io/blog/handbook-basic-internet-networking/</guid>
+      <guid>https://www.santricyber.com/blog/handbook-basic-internet-networking/</guid>
       <description>in this part, i will explain handbook basic internet networking which i have finished writing</description>
     </item>
     
