@@ -10,6 +10,11 @@ draft: false
 
 ![portfolio](/img/me.png/ "this image for portfolio")
 
+
+> ***PERSONAL CONTENT***
+***- This is my personal site, any opinions expressed here are my own, and do not necessary reflect opinions or positions of my employer.***
+
+
 ### HALLO!
 
 Before i start let me introduce myself, My name is Dimas Setiyadi, 27 years old, i graduated from faculty of Informatics Engineering University of Nusa Mandiri, in this year. And earlier this year 2023 i will to continue studying Mastering of Informatic Engineering at IPB University...Inshaa Allah 😄
@@ -66,5 +71,3 @@ currently my top priority is to be putting together research for my *Master Degr
 * DevNet certified
 * CCNA R&S certified 
 
-### PERSONAL CONTENT
-This is my personal site; any opinions expressed here are my own, and do not necessary reflect opinions or positions of my employer.
