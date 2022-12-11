@@ -1,0 +1,52 @@
+{{- define "main" }}
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ .Title }}
+      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+    </h1>
+
+  </header>
+  {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+<!-- ini fungsi untuk edit isi pada page setup-->
+
+  this page is just to express a little bit of my hobbies in the field of photography, video editing and I also have a workspace that i designed myself.<br/>
+  
+<br>
+
+  <img src="/img/setup1.png" loading="lazy" alt="312"></br>
+
+
+  this is an overarching-looking image, i bring a green atmosphere to my workspace 😄 I don't know it's a nice layout or not but i like it and it's comfortable.</br>
+
+</br>
+
+  <img src="/img/setup2.jpg" loading="lazy" alt="312"> <br/>
+
+
+
+
+
+<!-- ini halaman end untuk edit isi pada page setup-->
+  <footer class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+  </footer>
+</article>
+{{- end }}{{/* end main */}}
+

@@ -1,0 +1,8 @@
+<head>
+  {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
+</head>
+
+{{- /* Head custom content area start */ -}}
+{{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the section of every page. */ -}}
+{{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
+{{- /* Head custom content area end */ -}}
