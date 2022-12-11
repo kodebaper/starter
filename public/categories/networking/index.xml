@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>networking on SantriCyber</title>
+    <link>https://www.santricyber.com/categories/networking/</link>
+    <description>Recent content in networking on SantriCyber</description>
+    <image>
+      <url>https://www.santricyber.com/post/img/santricyber.png/</url>
+      <link>https://www.santricyber.com/post/img/santricyber.png/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Sep 2022 14:14:22 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handbook Basic Internet Networking</title>
+      <link>https://www.santricyber.com/blog/handbook-basic-internet-networking/</link>
+      <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/handbook-basic-internet-networking/</guid>
+      <description>in this part, i will explain handbook basic internet networking which i have finished writing</description>
+    </item>
+    
+  </channel>
+</rss>

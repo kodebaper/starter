@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub on SantriCyber</title>
+    <link>https://www.santricyber.com/tags/github/</link>
+    <description>Recent content in GitHub on SantriCyber</description>
+    <image>
+      <url>https://www.santricyber.com/post/img/santricyber.png/</url>
+      <link>https://www.santricyber.com/post/img/santricyber.png/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Nov 2022 10:50:21 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preparation Before Deployment Hugo Static Website to Github Page</title>
+      <link>https://www.santricyber.com/blog/preparation-before-deployment-hugo-static-website-to-github-page/</link>
+      <pubDate>Tue, 01 Nov 2022 10:50:21 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/preparation-before-deployment-hugo-static-website-to-github-page/</guid>
+      <description>Hugo static website running in github page</description>
+    </item>
+    
+  </channel>
+</rss>

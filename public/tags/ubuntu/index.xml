@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ubuntu on SantriCyber</title>
+    <link>https://www.santricyber.com/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on SantriCyber</description>
+    <image>
+      <url>https://www.santricyber.com/post/img/santricyber.png/</url>
+      <link>https://www.santricyber.com/post/img/santricyber.png/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Nov 2022 09:05:14 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Migrate to hugo static site?</title>
+      <link>https://www.santricyber.com/blog/why-migrate-to-hugo/</link>
+      <pubDate>Thu, 03 Nov 2022 09:05:14 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/why-migrate-to-hugo/</guid>
+      <description>Consideration for migrating to a hugo static website</description>
+    </item>
+    
+    <item>
+      <title>Why I Install and Learn Ubuntu in My Laptop</title>
+      <link>https://www.santricyber.com/blog/why-i-install-and-learn-ubuntu-in-my-laptop/</link>
+      <pubDate>Thu, 15 Sep 2022 13:54:44 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/why-i-install-and-learn-ubuntu-in-my-laptop/</guid>
+      <description>open source led me to understand technology</description>
+    </item>
+    
+  </channel>
+</rss>
