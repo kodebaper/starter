@@ -3,30 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.santricyber.com/blog/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/categories/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/tags/git/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/tags/hugo/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/categories/programming/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/blog/seo-tips-for-hugo-static-website/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/tags/static-site/</loc>
-    <lastmod>2022-11-03T09:19:22+07:00</lastmod>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/svg-path-icon-for-hugo-static-website/</loc>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/tags/</loc>
+    <lastmod>2023-05-22T10:36:42+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/tags/github/</loc>
+    <lastmod>2023-05-16T06:10:18+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/how-to-create-an-alternative-article-in-hugo-static-website/</loc>
+    <lastmod>2023-05-16T06:10:18+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/get-to-know-cloudflare-dns-service/</loc>
+    <lastmod>2023-05-11T11:19:04+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/tags/deploy/</loc>
+    <lastmod>2023-05-11T11:04:14+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/tags/hugo-error/</loc>
+    <lastmod>2023-05-11T11:04:14+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</loc>
+    <lastmod>2023-05-11T11:04:14+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/tags/git/</loc>
+    <lastmod>2023-05-11T10:52:19+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/git-command-for-beginners/</loc>
+    <lastmod>2023-05-11T10:52:19+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/what-is-hugo-static-site-generator/</loc>
+    <lastmod>2023-05-11T10:39:41+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/get-to-know-theme-on-the-hugo-static-website/</loc>
+    <lastmod>2023-05-11T09:30:44+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/error-failed-to-push-some-refs-to/</loc>
+    <lastmod>2023-05-11T09:12:06+07:00</lastmod>
+  </url><url>
+    <loc>https://www.santricyber.com/blog/seo-tips-for-hugo-static-website/</loc>
     <lastmod>2022-11-03T09:19:22+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/blog/git-push-rejected-non-fast-forward/</loc>
@@ -47,9 +80,6 @@
     <loc>https://www.santricyber.com/blog/why-migrate-to-hugo/</loc>
     <lastmod>2022-11-03T09:05:14+07:00</lastmod>
   </url><url>
-    <loc>https://www.santricyber.com/tags/github/</loc>
-    <lastmod>2022-11-01T10:50:21+07:00</lastmod>
-  </url><url>
     <loc>https://www.santricyber.com/blog/preparation-before-deployment-hugo-static-website-to-github-page/</loc>
     <lastmod>2022-11-01T10:50:21+07:00</lastmod>
   </url><url>
@@ -62,41 +92,19 @@
     <loc>https://www.santricyber.com/study/</loc>
     <lastmod>2022-09-19T16:56:31+07:00</lastmod>
   </url><url>
-    <loc>https://www.santricyber.com/portfolio/</loc>
+    <loc>https://www.santricyber.com/about/</loc>
     <lastmod>2022-09-17T21:07:30+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/tags/basic/</loc>
-    <lastmod>2022-09-15T14:14:22+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/blog/handbook-basic-internet-networking/</loc>
-    <lastmod>2022-09-15T14:14:22+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/tags/mikrotik/</loc>
-    <lastmod>2022-09-15T14:14:22+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/tags/networking/</loc>
-    <lastmod>2022-09-15T14:14:22+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/categories/networking/</loc>
-    <lastmod>2022-09-15T14:14:22+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/blog/why-i-install-and-learn-ubuntu-in-my-laptop/</loc>
     <lastmod>2022-09-15T13:54:44+07:00</lastmod>
   </url><url>
-    <loc>https://www.santricyber.com/tags/ngaji-quran/</loc>
-    <lastmod>2022-09-15T13:46:47+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/categories/self-development/</loc>
-    <lastmod>2022-09-15T13:46:47+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/blog/the-conversation-of-the-inhabitants-of-heaven-and-hell/</loc>
-    <lastmod>2022-09-15T13:46:47+07:00</lastmod>
-  </url><url>
-    <loc>https://www.santricyber.com/blog/why-change-theme-at-all/</loc>
-    <lastmod>2022-09-15T13:16:44+07:00</lastmod>
+    <loc>https://www.santricyber.com/blog/how-to-create-an-open-new-tab-external-link-in-hugo/</loc>
+    <lastmod>2021-04-27T21:55:18+07:00</lastmod>
   </url><url>
     <loc>https://www.santricyber.com/post/</loc>
   </url><url>
     <loc>https://www.santricyber.com/search/</loc>
+  </url><url>
+    <loc>https://www.santricyber.com/aboutme/</loc>
   </url>
 </urlset>

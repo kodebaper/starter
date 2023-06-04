@@ -7,8 +7,8 @@ Categories: ["open source"]
 description: "Consideration for migrating to a hugo static website"
 ---
 
-# migration, from CMS to Static site Hugo
- 
+
+-------------- 
 Finally, from CMS, I decided to use a framework that is said to be the fastest framework. And it really feels like this is the first time I've tasted the fun of writing on a blog using a static site, for this other time I decided on a static site generator with Hugo.
 because previously I was quite familiar with using the terminal on Linux, the experience of writing on a blog using Hugo really felt like blogging in a Linux terminal 'cut me off'. After some time being confused about what engine to use for a personal blog, maybe in the future I will write a lot on my personal blog with this blog powered by Hugo.
  

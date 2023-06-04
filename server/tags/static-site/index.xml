@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>static site on SantriCyber</title>
+    <link>https://www.santricyber.com/tags/static-site/</link>
+    <description>Recent content in static site on SantriCyber</description>
+    <image>
+      <url>https://www.santricyber.com/post/img/santricyber.png/</url>
+      <link>https://www.santricyber.com/post/img/santricyber.png/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Nov 2022 09:19:22 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/static-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEO Tips for Hugo Static Website</title>
+      <link>https://www.santricyber.com/blog/seo-tips-for-hugo-static-website/</link>
+      <pubDate>Thu, 03 Nov 2022 09:19:22 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/seo-tips-for-hugo-static-website/</guid>
+      <description>work! optimization hugo static website for google search engine</description>
+    </item>
+    
+    <item>
+      <title>Git Push Rejected Non Fast Forward</title>
+      <link>https://www.santricyber.com/blog/git-push-rejected-non-fast-forward/</link>
+      <pubDate>Thu, 03 Nov 2022 09:14:58 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/git-push-rejected-non-fast-forward/</guid>
+      <description>in this article i will to explain, why git push rejected non fast forward</description>
+    </item>
+    
+    <item>
+      <title>Solved Enforce HTTPS—Unavailable for Your Site on Github</title>
+      <link>https://www.santricyber.com/blog/solved-enforce-httpsunavailable-for-your-site-on-github/</link>
+      <pubDate>Thu, 03 Nov 2022 09:10:06 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/solved-enforce-httpsunavailable-for-your-site-on-github/</guid>
+      <description>Solved Enforce HTTPS—Unavailable for Your Site Because Your Domain Is Not Properly Configured to Support HTTPS Github</description>
+    </item>
+    
+    <item>
+      <title>Preparation Before Deployment Hugo Static Website to Github Page</title>
+      <link>https://www.santricyber.com/blog/preparation-before-deployment-hugo-static-website-to-github-page/</link>
+      <pubDate>Tue, 01 Nov 2022 10:50:21 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/preparation-before-deployment-hugo-static-website-to-github-page/</guid>
+      <description>Hugo static website running in github page</description>
+    </item>
+    
+    <item>
+      <title>SOLVED :Error says to remove site from .gitmodules but it’s not there Hugo submodule with PaperMod </title>
+      <link>https://www.santricyber.com/blog/solved-error-says-to-remove-site-from-.gitmodules-but-its-not-there-hugo-submodule-with-papermod/</link>
+      <pubDate>Mon, 03 Oct 2022 08:40:16 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/solved-error-says-to-remove-site-from-.gitmodules-but-its-not-there-hugo-submodule-with-papermod/</guid>
+      <description>Error says to remove site from .gitmodules</description>
+    </item>
+    
+    <item>
+      <title>Why Change Theme at All?</title>
+      <link>https://www.santricyber.com/blog/why-change-theme-at-all/</link>
+      <pubDate>Thu, 15 Sep 2022 13:16:44 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/why-change-theme-at-all/</guid>
+      <description>this article its all about how i change my hugo theme at all</description>
+    </item>
+    
+  </channel>
+</rss>

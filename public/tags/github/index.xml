@@ -9,7 +9,16 @@
       <link>https://www.santricyber.com/post/img/santricyber.png/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Nov 2022 10:50:21 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 May 2023 06:10:18 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create an Alternative Article in Hugo Static Website</title>
+      <link>https://www.santricyber.com/blog/how-to-create-an-alternative-article-in-hugo-static-website/</link>
+      <pubDate>Tue, 16 May 2023 06:10:18 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/how-to-create-an-alternative-article-in-hugo-static-website/</guid>
+      <description>as a blogger who uses Hugo&amp;rsquo;s static site as his blog engine, but this time I was faced with a different situation where writing articles on a blog using Hugo simply uses a text editor. I will update this article with a more complete discussion at a later time with other tips on how to write articles on Hugo, while the tips that I wrote at this time are still limited to the whole ones that I use in writing on my current blog.</description>
+    </item>
+    
     <item>
       <title>Preparation Before Deployment Hugo Static Website to Github Page</title>
       <link>https://www.santricyber.com/blog/preparation-before-deployment-hugo-static-website-to-github-page/</link>
@@ -17,6 +26,15 @@
       
       <guid>https://www.santricyber.com/blog/preparation-before-deployment-hugo-static-website-to-github-page/</guid>
       <description>Hugo static website running in github page</description>
+    </item>
+    
+    <item>
+      <title>How-to-Create-an-Open-New Tab-External-Link-in-Hugo</title>
+      <link>https://www.santricyber.com/blog/how-to-create-an-open-new-tab-external-link-in-hugo/</link>
+      <pubDate>Tue, 27 Apr 2021 21:55:18 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/how-to-create-an-open-new-tab-external-link-in-hugo/</guid>
+      <description>open new tab external link in Hugo</description>
     </item>
     
   </channel>

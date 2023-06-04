@@ -9,7 +9,25 @@
       <link>https://www.santricyber.com/post/img/santricyber.png/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Nov 2022 09:19:22 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 10:52:19 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Command for Beginners</title>
+      <link>https://www.santricyber.com/blog/git-command-for-beginners/</link>
+      <pubDate>Thu, 11 May 2023 10:52:19 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/git-command-for-beginners/</guid>
+      <description>in this article i will to note, git command for beginners</description>
+    </item>
+    
+    <item>
+      <title>Error Failed to Push Some Refs To</title>
+      <link>https://www.santricyber.com/blog/error-failed-to-push-some-refs-to/</link>
+      <pubDate>Thu, 11 May 2023 09:12:06 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/error-failed-to-push-some-refs-to/</guid>
+      <description>git error:Failed to Push Some Refs To</description>
+    </item>
+    
     <item>
       <title>SEO Tips for Hugo Static Website</title>
       <link>https://www.santricyber.com/blog/seo-tips-for-hugo-static-website/</link>

@@ -9,20 +9,11 @@
       <link>https://www.santricyber.com/post/img/santricyber.png/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Nov 2022 09:19:22 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Git</title>
-      <link>https://www.santricyber.com/tags/git/</link>
-      <pubDate>Thu, 03 Nov 2022 09:19:22 +0700</pubDate>
-      
-      <guid>https://www.santricyber.com/tags/git/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 22 May 2023 10:36:42 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
       <link>https://www.santricyber.com/tags/hugo/</link>
-      <pubDate>Thu, 03 Nov 2022 09:19:22 +0700</pubDate>
+      <pubDate>Mon, 22 May 2023 10:36:42 +0700</pubDate>
       
       <guid>https://www.santricyber.com/tags/hugo/</guid>
       <description></description>
@@ -31,9 +22,45 @@
     <item>
       <title>static site</title>
       <link>https://www.santricyber.com/tags/static-site/</link>
-      <pubDate>Thu, 03 Nov 2022 09:19:22 +0700</pubDate>
+      <pubDate>Mon, 22 May 2023 10:36:42 +0700</pubDate>
       
       <guid>https://www.santricyber.com/tags/static-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://www.santricyber.com/tags/github/</link>
+      <pubDate>Tue, 16 May 2023 06:10:18 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deploy</title>
+      <link>https://www.santricyber.com/tags/deploy/</link>
+      <pubDate>Thu, 11 May 2023 11:04:14 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/tags/deploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Error</title>
+      <link>https://www.santricyber.com/tags/hugo-error/</link>
+      <pubDate>Thu, 11 May 2023 11:04:14 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/tags/hugo-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://www.santricyber.com/tags/git/</link>
+      <pubDate>Thu, 11 May 2023 10:52:19 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/tags/git/</guid>
       <description></description>
     </item>
     
@@ -52,51 +79,6 @@
       <pubDate>Thu, 03 Nov 2022 09:05:14 +0700</pubDate>
       
       <guid>https://www.santricyber.com/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub</title>
-      <link>https://www.santricyber.com/tags/github/</link>
-      <pubDate>Tue, 01 Nov 2022 10:50:21 +0700</pubDate>
-      
-      <guid>https://www.santricyber.com/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>basic</title>
-      <link>https://www.santricyber.com/tags/basic/</link>
-      <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
-      
-      <guid>https://www.santricyber.com/tags/basic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mikrotik</title>
-      <link>https://www.santricyber.com/tags/mikrotik/</link>
-      <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
-      
-      <guid>https://www.santricyber.com/tags/mikrotik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>networking</title>
-      <link>https://www.santricyber.com/tags/networking/</link>
-      <pubDate>Thu, 15 Sep 2022 14:14:22 +0700</pubDate>
-      
-      <guid>https://www.santricyber.com/tags/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ngaji Qur&#39;an</title>
-      <link>https://www.santricyber.com/tags/ngaji-quran/</link>
-      <pubDate>Thu, 15 Sep 2022 13:46:47 +0700</pubDate>
-      
-      <guid>https://www.santricyber.com/tags/ngaji-quran/</guid>
       <description></description>
     </item>
     

@@ -7,6 +7,7 @@ Categories: ["open source"]
 description: "open source led me to understand technology"
 ---
 
+--------------
 # I use Linux because I want to learn
  
 . The main reason I chose the Ubuntu Linux operating system to install on my first notebook was, I was inspired by several technological devices that were built using the Linux operating system, one of which was where various technology servers were built. and developed using the Linux operating system (at that time I read git anyway). But the main point of all this is not here, I feel that Linux is my operating system of choice because besides continuing my education to the SMK level majoring in Computer and Network Engineering, I also have never operated a computer or laptop at all.

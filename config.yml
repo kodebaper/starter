@@ -10,7 +10,7 @@ buildExpired: false
 
 googleAnalytics: UA-243934783-1
 google_tag_manager: GTM-KXRL7SV
-disqusShortname: "santricyber"
+disqusShortname: ""
 
 minify:
   disableXML: true
@@ -62,18 +62,19 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hallo, Guys \U0001F44B"
-    subtitle: "My name's dimas setiyadi, I'm the person behind the scenes from SantriCyber, I like to write, what do I write here things related to self-development, code programs, and Technology **[``[Read More]``](https://www.santricyber.com/portfolio/)** "
-    imageUrl: "/post/img/santricyber.png/"
+    subtitle: "My name's dimas setiyadi, I'm the person behind the scenes from SantriCyber, I like to write, what do I write here things related to self-development, code programs, and Technology **[``[Read More]``](https://www.santricyber.com/about/)** "
+    imageUrl: "/post/img/santricyber1.png/"
     imageWidth: 180
     imageHeight: 180
     imageTitle: santricyber profile
     buttons:
-      - name: My Writing
+      - name: Blog
         url: blog
       - name: Research
         url: study
+      - name: About
+        url: about
       - name: Portfolio
-        url: portfolio
 
   # home-info mode
   homeInfoParams:
@@ -141,10 +142,10 @@ menu:
       name: Search
       url: /search/
       weight: 30
-    - identifier: 
-      name: 
-      url: 
-      weight: 
+    - identifier: Home
+      name: Home
+      url: https://www.santricyber.com/
+      weight: 5
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

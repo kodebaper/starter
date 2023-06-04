@@ -9,7 +9,71 @@
       <link>https://www.santricyber.com/post/img/santricyber.png/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Nov 2022 09:19:22 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/static-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 10:36:42 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/static-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SVG Path Icon for Hugo Static Website</title>
+      <link>https://www.santricyber.com/blog/svg-path-icon-for-hugo-static-website/</link>
+      <pubDate>Mon, 22 May 2023 10:36:42 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/svg-path-icon-for-hugo-static-website/</guid>
+      <description>how to create SVG path icon for Hugo Static Website</description>
+    </item>
+    
+    <item>
+      <title>How to Create an Alternative Article in Hugo Static Website</title>
+      <link>https://www.santricyber.com/blog/how-to-create-an-alternative-article-in-hugo-static-website/</link>
+      <pubDate>Tue, 16 May 2023 06:10:18 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/how-to-create-an-alternative-article-in-hugo-static-website/</guid>
+      <description>as a blogger who uses Hugo&amp;rsquo;s static site as his blog engine, but this time I was faced with a different situation where writing articles on a blog using Hugo simply uses a text editor. I will update this article with a more complete discussion at a later time with other tips on how to write articles on Hugo, while the tips that I wrote at this time are still limited to the whole ones that I use in writing on my current blog.</description>
+    </item>
+    
+    <item>
+      <title>Get to Know Cloudflare DNS Service</title>
+      <link>https://www.santricyber.com/blog/get-to-know-cloudflare-dns-service/</link>
+      <pubDate>Thu, 11 May 2023 11:19:04 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/get-to-know-cloudflare-dns-service/</guid>
+      <description>Get to know what is Cloudflare and right now I&amp;rsquo;m only using Cloudflare&amp;rsquo;s services to use the free service for setting up my blog&amp;rsquo;s DNS, while on another occasion I will discuss how to set DNS on Cloudflare from the Github page for Hugo&amp;rsquo;s blog static site.
+Starting from this blog, deploying it to the GitHub page and then ordering a Domaindotcom from Domainesia, at that time the custom domain setup at Cloudflare was taking place.</description>
+    </item>
+    
+    <item>
+      <title>Git Command for Beginners</title>
+      <link>https://www.santricyber.com/blog/git-command-for-beginners/</link>
+      <pubDate>Thu, 11 May 2023 10:52:19 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/git-command-for-beginners/</guid>
+      <description>in this article i will to note, git command for beginners</description>
+    </item>
+    
+    <item>
+      <title>What Is Hugo Static Site Generator?</title>
+      <link>https://www.santricyber.com/blog/what-is-hugo-static-site-generator/</link>
+      <pubDate>Thu, 11 May 2023 10:39:41 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/what-is-hugo-static-site-generator/</guid>
+      <description>hugo static website</description>
+    </item>
+    
+    <item>
+      <title>Get to Know Theme on the Hugo Static Website</title>
+      <link>https://www.santricyber.com/blog/get-to-know-theme-on-the-hugo-static-website/</link>
+      <pubDate>Thu, 11 May 2023 09:30:44 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/get-to-know-theme-on-the-hugo-static-website/</guid>
+      <description>0. Tips for using templates made by other people In discussing this article, I will discuss the details of the template used on my current blog. But before discussing it, I also took the time to discuss tips on using templates made by other people so that we understand each section and its layout. Where are the things I do after downloading templates made by other people I will dissect and if necessary record the contents of the files in the template one by one.</description>
+    </item>
+    
+    <item>
+      <title>Error Failed to Push Some Refs To</title>
+      <link>https://www.santricyber.com/blog/error-failed-to-push-some-refs-to/</link>
+      <pubDate>Thu, 11 May 2023 09:12:06 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/error-failed-to-push-some-refs-to/</guid>
+      <description>git error:Failed to Push Some Refs To</description>
+    </item>
+    
     <item>
       <title>SEO Tips for Hugo Static Website</title>
       <link>https://www.santricyber.com/blog/seo-tips-for-hugo-static-website/</link>
@@ -56,12 +120,12 @@
     </item>
     
     <item>
-      <title>Why Change Theme at All?</title>
-      <link>https://www.santricyber.com/blog/why-change-theme-at-all/</link>
-      <pubDate>Thu, 15 Sep 2022 13:16:44 +0700</pubDate>
+      <title>How-to-Create-an-Open-New Tab-External-Link-in-Hugo</title>
+      <link>https://www.santricyber.com/blog/how-to-create-an-open-new-tab-external-link-in-hugo/</link>
+      <pubDate>Tue, 27 Apr 2021 21:55:18 +0700</pubDate>
       
-      <guid>https://www.santricyber.com/blog/why-change-theme-at-all/</guid>
-      <description>this article its all about how i change my hugo theme at all</description>
+      <guid>https://www.santricyber.com/blog/how-to-create-an-open-new-tab-external-link-in-hugo/</guid>
+      <description>open new tab external link in Hugo</description>
     </item>
     
   </channel>
