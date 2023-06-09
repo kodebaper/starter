@@ -26,7 +26,7 @@ currently my top priority is to be putting together research for my Master of Co
 
 * D3 Computer Technology
 * S1 Informatic Engineering
-* S2 (on the way 😅)
+* S2 (on the way InshaaAllah 😅)
 
 >### TEACHING EXPERIENCE
 * GPS Tracking Instructor in Indonesia Special Police Force (Korps Brimob)
