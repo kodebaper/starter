@@ -16,7 +16,7 @@ draft: false
 
 >### HALLO!
 
-Before i start let me introduce myself, My name is **DIMAS SETIYADI, A.Md.T., S.Kom.**  27 years old, i graduated from faculty of Informatics Engineering University of Nusa Mandiri, in this year. And earlier this year 2023 i will to continue study Master of Computer Science at IPB University…Inshaa Allah 😄
+Before i start let me introduce myself, My name is **DIMAS SETIYADI, A.Md.T., S.Kom.**  27 years old, i graduated from faculty of Informatics Engineering University of Nusa Mandiri, in this year. And i will to continue study Master of Computer Science at IPB University…Inshaa Allah 😄
 
 >> My technical work spans Backend Engineer, virtual machines and deployment tools.
 
