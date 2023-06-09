@@ -9,7 +9,22 @@
       <link>https://www.santricyber.com/post/img/santricyber.png/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 May 2023 10:36:42 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jun 2023 16:41:56 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solved Error Failed to Push Some Refs To</title>
+      <link>https://www.santricyber.com/blog/solved-error-failed-to-push-some-refs-to/</link>
+      <pubDate>Fri, 09 Jun 2023 16:41:56 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/solved-error-failed-to-push-some-refs-to/</guid>
+      <description>[SOLVED]
+error: failed to push some refs to ! [Rejected] main -&amp;gt; main (fetch first) (blaaa…..blaaa&amp;hellip; blaaa)
+in this case, you just use this command below to solve the problem
+$ git pull origin master -allow-unrelated-histories
+and then you can try again to push your code &amp;hellip;..
+$ git push -u origin master
+I hope this article is useful, happy learning!</description>
+    </item>
+    
     <item>
       <title>SVG Path Icon for Hugo Static Website</title>
       <link>https://www.santricyber.com/blog/svg-path-icon-for-hugo-static-website/</link>
