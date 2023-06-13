@@ -5,4 +5,7 @@ layout: "search" # is necessary
 # description: "Description for Search"
 summary: "search"
 placeholder: "what do you want to find out ?"
+searchHidden: true
 ---
+
+

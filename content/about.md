@@ -29,8 +29,8 @@ currently my top priority is to be putting together research for my Master of Co
 * S2 (on the way InshaaAllah 😅)
 
 >### TEACHING EXPERIENCE
-* GPS Tracking Instructor in Indonesia Special Police Force (Korps Brimob)
-* Internet Networking Instructor in Indonesia Special Police Force (Korps Brimob)
+* GPS Tracking Instructor in Indonesia Special Police Force (Korps Brimob Polri)
+* Internet Networking Instructor in Indonesia Special Police Force (Korps Brimob Polri)
 ### SKILLS
 **`````Networking Skills`````**
 
