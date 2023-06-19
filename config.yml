@@ -62,7 +62,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hallo, Guys \U0001F44B"
-    subtitle: "My name's dimas setiyadi, I'm the person behind the scenes from SantriCyber, I like to write, what do I write here things related to self-development, code programs, and Technology **[``[Read More]``](https://www.santricyber.com/about/)** "
+    subtitle: "My name's dimas setiyadi, I'm the person behind the scenes from SantriCyber, I like to write, what do I write here things related to self-development, code programs, and talking about Technology.
+                I'm not a Hacker, although I like command line, FOSS, Linux etc, you won't find any ilegal activites in this site **[``[Read More]``](https://www.santricyber.com/about/)** "
     imageUrl: "/post/img/santricyber1.png/"
     imageWidth: 180
     imageHeight: 180
