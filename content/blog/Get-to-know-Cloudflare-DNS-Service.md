@@ -18,6 +18,6 @@ I got this explanation from Wikipedia, but for myself I understand Cloudflare is
 
 I just got to know Clodflare about 6 months ago and started to be familiar with some of the features in it, I used Cloudflare as part of the Setup series when I did a custom domain on the GitHub page with the domain **dotcom**. Isn't it interesting to use Hugo? the more we dive in, the more we know a lot of knowledge, for example, we get to know what services are provided by Cloudflare, then for other benefits, including because we don't just blog normally, but so there is additional knowledge that we learn by blogging through the satic site generator using Hugo.
 
-I hope this article is useful, happy learning!
+I hope this article is useful, happy reading and learning!
 
 
