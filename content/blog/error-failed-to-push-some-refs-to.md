@@ -36,4 +36,4 @@ Finally I got a solution to overcome the problem as above so we can push back to
 
 	# git pull --rebase
 
-And the problem is solved, I can push back to git, good luck!
+And just using this command and problem is solved, I can push back to git, good luck!
