@@ -8,8 +8,8 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-243934783-1
-google_tag_manager: GTM-KXRL7SV
+googleAnalytics: G-6RGM1LT58Q
+google_tag_manager: G-6RGM1LT58Q
 disqusShortname: ""
 
 minify:
