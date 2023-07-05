@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hacking series on SantriCyber</title>
+    <link>https://www.santricyber.com/tags/hacking-series/</link>
+    <description>Recent content in Hacking series on SantriCyber</description>
+    <image>
+      <url>https://www.santricyber.com/post/img/santricyber.png/</url>
+      <link>https://www.santricyber.com/post/img/santricyber.png/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jul 2023 11:22:12 +0700</lastBuildDate><atom:link href="https://www.santricyber.com/tags/hacking-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INFORMATION GATHERING : How to Create an IP Checker Tool in Python</title>
+      <link>https://www.santricyber.com/blog/information-gathering-how-to-create-an-ip-checker-tool-in-python/</link>
+      <pubDate>Wed, 05 Jul 2023 11:22:12 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/information-gathering-how-to-create-an-ip-checker-tool-in-python/</guid>
+      <description>Create an IP Checker Tool using Python programming language</description>
+    </item>
+    
+    <item>
+      <title>INFORMATION GATHRING : How to Tracking IP Address With Ping and Nslookup</title>
+      <link>https://www.santricyber.com/blog/information-gathring-how-to-tracking-ip-address-with-ping-and-nslookup/</link>
+      <pubDate>Tue, 04 Jul 2023 15:36:23 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/information-gathring-how-to-tracking-ip-address-with-ping-and-nslookup/</guid>
+      <description>how to make tool PING and NSLOOKUP</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking Part 1 Information Gathring</title>
+      <link>https://www.santricyber.com/blog/ethical-hacking-part-1-information-gathring/</link>
+      <pubDate>Tue, 27 Jun 2023 14:18:49 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/ethical-hacking-part-1-information-gathring/</guid>
+      <description>It should be remembered that this article is a series of lessons from part 1 on ethical hacking to part 7 that I studied, to summarize so that there is not too much discussion I decided to shorten the discussion
+Articles on the hacking series are not recommended for those who are very beginners, I do not explain with detailed pictures or videos and also do not explain the basics of the Kali Linux operating system starting from how to change directories and run the command line.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking Note</title>
+      <link>https://www.santricyber.com/blog/ethical-hacking-note/</link>
+      <pubDate>Fri, 23 Jun 2023 10:47:54 +0700</pubDate>
+      
+      <guid>https://www.santricyber.com/blog/ethical-hacking-note/</guid>
+      <description>[Important! read this]</description>
+    </item>
+    
+  </channel>
+</rss>
