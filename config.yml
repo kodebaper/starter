@@ -8,8 +8,8 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-6RGM1LT58Q
-google_tag_manager: G-6RGM1LT58Q
+googleAnalytics: 
+google_tag_manager: G-6J105MLJ1T
 disqusShortname: ""
 
 minify:
@@ -91,7 +91,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: " G-6RGM1LT58Q"
+      SiteVerificationTag: "G-6J105MLJ1T"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
