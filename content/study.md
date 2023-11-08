@@ -49,7 +49,7 @@ There are two results of the thought that I have completed:
 
 ### Study S2 ?
 
->> **synopsis of the research plan**
+>> **Thesis of the research plan**
 
 `>> on progress😅`
 

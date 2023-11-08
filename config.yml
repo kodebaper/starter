@@ -75,6 +75,7 @@ params:
       - name: About
         url: about
       - name: Portfolio
+        url: https://dimassetiyadi.netlify.app/
 
   # home-info mode
   homeInfoParams:
