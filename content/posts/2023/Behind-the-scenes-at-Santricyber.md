@@ -56,5 +56,3 @@ The following is a complete list:
 While this is all I remember a series of technologies from this blog, and I don't want to switch to other technologies or add other features to this blog in the near future because the blog that I currently use is sufficient to support my personal documentation needs through writing and blog media.
 
 That's all for this article, thank you for reading it!
-
-Translated with DeepL.com (free version)
