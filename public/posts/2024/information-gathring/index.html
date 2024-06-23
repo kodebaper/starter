@@ -4,7 +4,7 @@
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>How to Create an IP Checker Tool in Python | santricyber</title>
+<title>How to Tracking IP Address With Ping and Nslookup | santricyber</title>
 
 <meta name="description" content="part of information gathring">
     <link rel="stylesheet" href="/css/main.css">
@@ -88,7 +88,7 @@
 
     <header class="not-prose">
       
-      <h1 id="title" class="text-4xl font-bold leading-normal">How to Create an IP Checker Tool in Python</h1>
+      <h1 id="title" class="text-4xl font-bold leading-normal">How to Tracking IP Address With Ping and Nslookup</h1>
 
       <div id="lead" class="my-6">
 
@@ -104,11 +104,11 @@
           
           <li class="font-semibold my-2">Dimas Setiyadi</li>
           
-          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2024-03-07T11:28:03&#43;07:00">March 7, 2024</time>
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2024-03-07T11:33:59&#43;07:00">March 7, 2024</time>
           </li>
 
           <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
-            2 min read
+            3 min read
           </li>
 
         </ul>
@@ -119,46 +119,49 @@
 
     <figure id="featureimage" class="rounded-xl aspect-video">
 
-      <img class="rounded-lg" src="http://localhost:1313/images/recon3_hu889f54b6541cd963dfcd75a2f95f6ed5_38566_750x0_resize_q75_box.jpg" alt="" width="750" height="422">
+      <img class="rounded-lg" src="http://localhost:1313/images/recon2_hu6bc2478c7e951227319a97d408011fb6_34441_750x0_resize_q75_box.jpg" alt="" width="750" height="422">
 
       <figcaption class="text-center italic text-xs">Photo by santricyber</figcaption>
 
     </figure>
 
     <div id="content" class="mb-14">
-      <p>At this stage of the ethical hacking series, I will share the source code for how to make the IP Checker tool using the Python programming language on our Kali Linux operating system. Making this tool also aims at Information Gathering to find the IP address of a website and the geolocation of the server where the target website is placed.</p>
-<p>we simply create a file with the name we want with the file extension <strong>[.py]</strong> in this case I gave my file name <strong>[checker.py]</strong>  The contents of this file are as follows</p>
-<pre tabindex="0"><code>import socket
-import requests
-import pprint
-import json
-
-hostname = input(&#39;Enter a domain name&#34; &#39;)
-ip_address =  socket.gethostbyname(hostname)
-
-request_url = &#39;&lt;https://geolocation-db.com/jsonp/&gt;&#39; + ip_address
-response =  requests.get(request_url)
-geolocation = response.content.decode()
-geolocation = geolocation.split(&#34;(&#34;)[1].strip(&#34;)&#34;)
-geolocation = json.loads(geolocation)
-for k,v in geolocation.items():
-	pprint.pprint(str(k) + &#39; : &#39; + str(v))
-</code></pre><p>after files checker.py is already filled with lines of code as above, then save and it&rsquo;s time to check whether the tools we have created can run properly.
-what we need to do first we have to move to the directory where the checker.py is created, in this case, I put my files in the Documents directory
-then we input this command in the</p>
-<p><strong>$ python terminal checker.py</strong> then we enter the name of the target website and the results are as below.</p>
-<pre tabindex="0"><code>┌──(infosec㉿infosec)-[~/Documents]
-└─$ python checker[.py](&lt;http://geoloc.py/&gt;)
-Enter a domain name&#34; [kominfo.go.id](&lt;http://kominfo.go.id/&gt;)
-&#39;country_code : US&#39;
-&#39;country_name : United States&#39;
-&#39;city : None&#39;
-&#39;postal : None&#39;
-&#39;latitude : 37.751&#39;
-&#39;longitude : -97.822&#39;
-&#39;IPv4 : 45.60.36.49&#39;
-&#39;state : None&#39;
-</code></pre><p>from the results above we can see some complete information such as IP address or geo-location. Until the discussion of this article is here, I will continue the discussion of information gathering in the next article</p>
+      <p>Like the part that I previously explained in hacking activities is information gathering, while in information gathering things that are usually collected include
+IP Address
+username
+email address
+operating system
+if what we are targeting is a website, of course, we also have to know what technology is used on our target website, both the programming language used, the database used.
+there are at least two types in the process of gathering information,</p>
+<p><strong>1. active information gathering</strong></p>
+<p>active information gathering is when we collect the information we need and then do packet exchange with the target, an example here is, for example, doing social engineering</p>
+<p><strong>2. passive information gathering</strong></p>
+<p>We collect target information through third parties, this source can be obtained through search engines to collect target data.
+there is nothing that has to be done from the two points above, which is using any method as long as we can get the data from the target we need.
+the tools we can use include ping, whois, nslookup, whatweb, theHarvester, Hunter.io, sharelock. we will start with the simplest tool, namely PING through the terminal. the way this tool works is that PING will send ICMP (INTERNET CONTROL MESSAGE PROTOCOL) to a website for diagnostics. This activity is legal and does not break the law.</p>
+<pre tabindex="0"><code>~$ ping kominfo.go.id 
+PING kominfo.go.id (45.60.36.49) 56(84) bytes of data.
+64 bytes from 45.60.36.49 (45.60.36.49): icmp_seq=1 ttl=57 time=6.42 ms
+64 bytes from 45.60.36.49 (45.60.36.49): icmp_seq=2 ttl=57 time=5.91 ms
+64 bytes from 45.60.36.49 (45.60.36.49): icmp_seq=4 ttl=57 time=14.3 ms
+64 bytes from 45.60.36.49 (45.60.36.49): icmp_seq=5 ttl=57 time=4.08 ms
+64 bytes from 45.60.36.49 (45.60.36.49): icmp_seq=6 ttl=57 time=5.23 ms
+64 bytes from 45.60.36.49 (45.60.36.49): icmp_seq=7 ttl=57 time=4.27 ms
+^C
+--- kominfo.go.id ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 6019ms
+rtt min/avg/max/mdev = 4.080/6.708/14.344/3.513 ms
+</code></pre><p>we found the website kominfo.go.id this is 45.60.36.49, this is important for us to do vulnerability analysis or exploitation.</p>
+<p>Another tool that we will try to use nslookup, how to use just type it back in the terminal, and the result will be like below</p>
+<pre tabindex="0"><code>~$ nslookup kominfo.go.id
+ Server:		127.0.0.53 Address:	127.0.0.53#53
+Non-authoritative answer: 
+Name:	kominfo.go.id Address: 45.60.36.49 
+Name:	kominfo.go.id Address: 45.60.34.49 
+Name:	kominfo.go.id Address: 2001:df2:a600::10
+</code></pre><p>This information will also provide a complete IP address related to the IP address using active information gathering.
+for the next method, we can do passive information gathering, for example, here you can use a search engine through a site that provides services to check the IP address of a website, in this case, we can use the IP Checker website, for this stage I will not give an example. please check via website (ip-checker.info)</p>
+<p>We will continue this article to the next step which is <strong>to create an ip checker tool in Python</strong></p>
 
 
     <ul id="taxonomy" class="not-prose flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
@@ -222,6 +225,23 @@ Enter a domain name&#34; [kominfo.go.id](&lt;http://kominfo.go.id/&gt;)
 	
 	<a class="insert-link" href="http://localhost:1313/posts/2024/information-gathring/"></a>
 
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="http://localhost:1313/images/recon3_hu889f54b6541cd963dfcd75a2f95f6ed5_38566_750x0_resize_q75_box.jpg" alt="How to Create an IP Checker Tool in Python" width="750" height="422">
+
+	</figure>
+
+	<div class="p-6">
+
+		<time datetime="2024-03-07T11:28:03&#43;07:00">Mar 07, 2024</time>
+
+		<h3 class="my-4 text-2xl font-bold">How to Create an IP Checker Tool in Python</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">part of information gathring</p>
+
+	</div>
+</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+	
+	<a class="insert-link" href="http://localhost:1313/posts/2024/information-gathring/"></a>
+
 	<figure class="w-full aspect-video overflow-hidden rounded-3xl"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="http://localhost:1313/images/recon1_huc45d8ae735f5460b55c65078b8569bae_38973_750x0_resize_q75_box.jpg" alt="Ethical Hacking Part 1 Information Gathring" width="750" height="422">
 
 	</figure>
@@ -231,23 +251,6 @@ Enter a domain name&#34; [kominfo.go.id](&lt;http://kominfo.go.id/&gt;)
 		<time datetime="2024-03-07T11:10:50&#43;07:00">Mar 07, 2024</time>
 
 		<h3 class="my-4 text-2xl font-bold">Ethical Hacking Part 1 Information Gathring</h3>
-
-		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">part of information gathring</p>
-
-	</div>
-</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
-	
-	<a class="insert-link" href="http://localhost:1313/posts/2024/information-gathring/"></a>
-
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="http://localhost:1313/images/recon4_huf973aa4748f9147f614041f7a57cf333_34299_750x0_resize_q75_box.jpg" alt="Advanced Recon for Cyber Warriors" width="750" height="422">
-
-	</figure>
-
-	<div class="p-6">
-
-		<time datetime="2024-03-07T06:47:43&#43;07:00">Mar 07, 2024</time>
-
-		<h3 class="my-4 text-2xl font-bold">Advanced Recon for Cyber Warriors</h3>
 
 		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">part of information gathring</p>
 
