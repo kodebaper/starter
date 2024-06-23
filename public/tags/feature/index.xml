@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature on santricyber</title>
+    <link>http://localhost:1313/tags/feature/</link>
+    <description>Recent content in Feature on santricyber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2023 13:45:49 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behind the scenes Santricyber</title>
+      <link>http://localhost:1313/posts/2023/behind-the-scenes-at-santricyber/</link>
+      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2023/behind-the-scenes-at-santricyber/</guid>
+      <description>Through this page I want to convey what is behind the scenes of santricyber, and the purpose of why this blog exists.</description>
+    </item>
+  </channel>
+</rss>

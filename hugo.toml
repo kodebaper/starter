@@ -1,7 +1,7 @@
 baseURL = 'https://www.santricyber.com/'
 languageCode = 'en-us'
 title = 'santricyber'
-theme = 'pehe'
+theme = 'pehtheme-hugo'
 
 paginate = '9' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
