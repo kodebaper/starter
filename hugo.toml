@@ -44,3 +44,10 @@ disqusShortname = 'santricyber'
   [module.mounts] # Directing the static folder to assets.
   	source = 'assets'
   	target = 'static'
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.126.3"
