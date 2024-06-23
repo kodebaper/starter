@@ -37,14 +37,6 @@ disqusShortname = 'santricyber'
 		pageRef = ''
 		weight = 25
 
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"
-  [module.mounts] # Directing the static folder to assets.
-  	source = 'assets'
-  	target = 'static'
-
 [build] 
   publish = "public"
   command = "hugo"
