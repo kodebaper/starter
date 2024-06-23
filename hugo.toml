@@ -45,9 +45,17 @@ disqusShortname = 'santricyber'
   	source = 'assets'
   	target = 'static'
 
-[build]
-  command = "hugo"
+[build] 
   publish = "public"
+  command = "hugo"
 
-[build.environment]
-  HUGO_VERSION = "0.126.3"
+[context.production.environment]
+  HUGO_VERSION = "0.125.3" # if older, use format: 0.53 (no trailing zero)
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+  
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.125.3" # if older, use format: 0.53 (no trailing zero)
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.125.3"
